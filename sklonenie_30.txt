@@ -1,0 +1,599 @@
+1. Стол (Table):
+   - Nominative:
+     - Singular: Стол
+     - Plural: Столы
+   - Genitive:
+     - Singular: Стола
+     - Plural: Столов
+   - Dative:
+     - Singular: Столу
+     - Plural: Столам
+   - Accusative:
+     - Singular: Стол
+     - Plural: Столы
+   - Instrumental:
+     - Singular: Столом
+     - Plural: Столами
+   - Prepositional:
+     - Singular: Столе
+     - Plural: Столах
+
+2. Стул (Chair):
+   - Nominative:
+     - Singular: Стул
+     - Plural: Стулья
+   - Genitive:
+     - Singular: Стула
+     - Plural: Стульев
+   - Dative:
+     - Singular: Стулу
+     - Plural: Стульям
+   - Accusative:
+     - Singular: Стул
+     - Plural: Стулья
+   - Instrumental:
+     - Singular: Стулом
+     - Plural: Стульями
+   - Prepositional:
+     - Singular: Стуле
+     - Plural: Стульях
+
+3. Книга (Book):
+   - Nominative:
+     - Singular: Книга
+     - Plural: Книги
+   - Genitive:
+     - Singular: Книги
+     - Plural: Книг
+   - Dative:
+     - Singular: Книге
+     - Plural: Книгам
+   - Accusative:
+     - Singular: Книгу
+     - Plural: Книги
+   - Instrumental:
+     - Singular: Книгой
+     - Plural: Книгами
+   - Prepositional:
+     - Singular: Книге
+     - Plural: Книгах
+
+4. Ручка (Pen):
+   - Nominative:
+     - Singular: Ручка
+     - Plural: Ручки
+   - Genitive:
+     - Singular: Ручки
+     - Plural: Ручек
+   - Dative:
+     - Singular: Ручке
+     - Plural: Ручкам
+   - Accusative:
+     - Singular: Ручку
+     - Plural: Ручки
+   - Instrumental:
+     - Singular: Ручкой
+     - Plural: Ручками
+   - Prepositional:
+     - Singular: Ручке
+     - Plural: Ручках
+
+5. Окно (Window):
+   - Nominative:
+     - Singular: Окно
+     - Plural: Окна
+   - Genitive:
+     - Singular: Окна
+     - Plural: Окон
+   - Dative:
+     - Singular: Окну
+     - Plural: Окнам
+   - Accusative:
+     - Singular: Окно
+     - Plural: Окна
+   - Instrumental:
+     - Singular: Окном
+     - Plural: Окнами
+   - Prepositional:
+     - Singular: Окне
+     - Plural: Окнах
+
+6. Дверь (Door):
+   - Nominative:
+     - Singular: Дверь
+     - Plural: Двери
+   - Genitive:
+     - Singular: Двери
+     - Plural: Дверей
+   - Dative:
+     - Singular: Двери
+     - Plural: Дверям
+   - Accusative:
+     - Singular: Дверь
+     - Plural: Двери
+   - Instrumental:
+     - Singular: Дверью
+     - Plural: Дверями
+   - Prepositional:
+     - Singular: Двери
+     - Plural: Дверях
+
+7. Место (Place):
+   - Nominative:
+     - Singular: Место
+     - Plural: Места
+   - Genitive:
+     - Singular: Места
+     - Plural: Мест
+   - Dative:
+     - Singular: Месту
+     - Plural: Местам
+   - Accusative:
+     - Singular: Место
+     - Plural: Места
+   - Instrumental:
+     - Singular: Местом
+     - Plural: Местами
+   - Prepositional:
+     - Singular: Месте
+     - Plural: Местах
+
+8. Человек (Person):
+   - Nominative:
+     - Singular: Человек
+     - Plural: Люди
+   - Genitive:
+     - Singular: Человека
+     - Plural: Людей
+   - Dative:
+     - Singular: Человеку
+     - Plural: Людям
+   - Accusative:
+     - Singular: Человека
+     - Plural: Людей
+   - Instrumental:
+     - Singular: Человеком
+     - Plural: Людьми
+   - Prepositional:
+     - Singular: Человеке
+     - Plural: Людях
+
+9. Машина (Car):
+   - Nominative:
+     - Singular: Машина
+     - Plural: Машины
+   - Genitive:
+     - Singular: Машины
+     - Plural: Машин
+   - Dative:
+     - Singular: Машине
+     - Plural: Машинам
+   - Accusative:
+     - Singular: Машину
+     - Plural: Машины
+   - Instrumental:
+     - Singular: Машиной
+     - Plural: Машинами
+   - Prepositional:
+     - Singular: Машине
+     - Plural: Машинах
+
+10. Город (City):
+   - Nominative:
+     - Singular: Город
+     - Plural: Города
+   - Genitive:
+     - Singular: Города
+     - Plural: Городов
+   - Dative:
+     - Singular: Городу
+     - Plural: Городам
+   - Accusative:
+     - Singular: Город
+     - Plural: Города
+   - Instrumental:
+     - Singular: Городом
+     - Plural: Городами
+   - Prepositional:
+     - Singular: Городе
+     - Plural: Городах
+
+11. Дерево (Tree):
+   - Nominative:
+     - Singular: Дерево
+     - Plural: Деревья
+   - Genitive:
+     - Singular: Дерева
+     - Plural: Деревьев
+   - Dative:
+     - Singular: Дереву
+     - Plural: Деревьям
+   - Accusative:
+     - Singular: Дерево
+     - Plural: Деревья
+   - Instrumental:
+     - Singular: Деревом
+     - Plural: Деревьями
+   - Prepositional:
+     - Singular: Дереве
+     - Plural: Деревьях
+
+12. Лист (Leaf):
+   - Nominative:
+     - Singular: Лист
+     - Plural: Листья
+   - Genitive:
+     - Singular: Листа
+     - Plural: Листьев
+   - Dative:
+     - Singular: Листу
+     - Plural: Листьям
+   - Accusative:
+     - Singular: Лист
+     - Plural: Листья
+   - Instrumental:
+     - Singular: Листом
+     - Plural: Листьями
+   - Prepositional:
+     - Singular: Листе
+     - Plural: Листьях
+
+13. Река (River):
+   - Nominative:
+     - Singular: Река
+     - Plural: Реки
+   - Genitive:
+     - Singular: Реки
+     - Plural: Рек
+   - Dative:
+     - Singular: Реке
+     - Plural: Рекам
+   - Accusative:
+     - Singular: Реку
+     - Plural: Реки
+   - Instrumental:
+     - Singular: Рекой
+     - Plural: Реками
+   - Prepositional:
+     - Singular: Реке
+     - Plural: Реках
+
+14. Озеро (Lake):
+   - Nominative:
+     - Singular: Озеро
+     - Plural: Озера
+   - Genitive:
+     - Singular: Озера
+     - Plural: Озер
+   - Dative:
+     - Singular: Озеру
+     - Plural: Озерам
+   - Accusative:
+     - Singular: Озеро
+     - Plural: Озера
+   - Instrumental:
+     - Singular: Озером
+     - Plural: Озерами
+   - Prepositional:
+     - Singular: Озере
+     - Plural: Озерах
+
+15. Гора (Mountain):
+   - Nominative:
+     - Singular: Гора
+     - Plural: Горы
+   - Genitive:
+     - Singular: Горы
+     - Plural: Гор
+   - Dative:
+     - Singular: Горе
+     - Plural: Горам
+   - Accusative:
+     - Singular: Гору
+     - Plural: Горы
+   - Instrumental:
+     - Singular: Горой
+     - Plural: Горами
+   - Prepositional:
+     - Singular: Горе
+     - Plural: Горах
+
+16. Птица (Bird):
+   - Nominative:
+     - Singular: Птица
+     - Plural: Птицы
+   - Genitive:
+     - Singular: Птицы
+     - Plural: Птиц
+   - Dative:
+     - Singular: Птице
+     - Plural: Птицам
+   - Accusative:
+     - Singular: Птицу
+     - Plural: Птицы
+   - Instrumental:
+     - Singular: Птицей
+     - Plural: Птицами
+   - Prepositional:
+     - Singular: Птице
+     - Plural: Птицах
+
+17. Животное (Animal):
+   - Nominative:
+     - Singular: Животное
+     - Plural: Животные
+   - Genitive:
+     - Singular: Животного
+     - Plural: Животных
+   - Dative:
+     - Singular: Животному
+     - Plural: Животным
+   - Accusative:
+     - Singular: Животное
+     - Plural: Животных
+   - Instrumental:
+     - Singular: Животным
+     - Plural: Животными
+   - Prepositional:
+     - Singular: Животном
+     - Plural: Животных
+
+18. Друзья (Friends):
+   - Nominative:
+     - Singular: Друг
+     - Plural: Друзья
+   - Genitive:
+     - Singular: Друга
+     - Plural: Друзей
+   - Dative:
+     - Singular: Другу
+     - Plural: Друзьям
+   - Accusative:
+     - Singular: Друга
+     - Plural: Друзей
+   - Instrumental:
+     - Singular: Другом
+     - Plural: Друзьями
+   - Prepositional:
+     - Singular: Друге
+     - Plural: Друзьях
+
+19. Солнце (Sun):
+   - Nominative:
+     - Singular: Солнце
+     - Plural: Солнца
+   - Genitive:
+     - Singular: Солнца
+     - Plural: Солнц
+   - Dative:
+     - Singular: Солнцу
+     - Plural: Солнцам
+   - Accusative:
+     - Singular: Солнце
+     - Plural: Солнца
+   - Instrumental:
+     - Singular: Солнцем
+     - Plural: Солнцами
+   - Prepositional:
+     - Singular: Солнце
+     - Plural: Солнцах
+
+20. Луна (Moon):
+   - Nominative:
+     - Singular: Луна
+     - Plural: Луны
+   - Genitive:
+     - Singular: Луны
+     - Plural: Лун
+   - Dative:
+     - Singular: Луне
+     - Plural: Лунам
+   - Accusative:
+     - Singular: Луну
+     - Plural: Луны
+   - Instrumental:
+     - Singular: Луной
+     - Plural: Лунами
+   - Prepositional:
+     - Singular: Луне
+     - Plural: Лунах
+
+21. Ветер (Wind):
+   - Nominative:
+     - Singular: Ветер
+     - Plural: Ветры
+   - Genitive:
+     - Singular: Ветра
+     - Plural: Ветров
+   - Dative:
+     - Singular: Ветру
+     - Plural: Ветрам
+   - Accusative:
+     - Singular: Ветер
+     - Plural: Ветры
+   - Instrumental:
+     - Singular: Ветром
+     - Plural: Ветрами
+   - Prepositional:
+     - Singular: Ветре
+     - Plural: Ветрах
+
+22. Дождь (Rain):
+   - Nominative:
+     - Singular: Дождь
+     - Plural: Дожди
+   - Genitive:
+     - Singular: Дождя
+     - Plural: Дождей
+   - Dative:
+     - Singular: Дождю
+     - Plural: Дождям
+   - Accusative:
+     - Singular: Дождь
+     - Plural: Дожди
+   - Instrumental:
+     - Singular: Дождем
+     - Plural: Дождями
+   - Prepositional:
+     - Singular: Дожде
+     - Plural: Дождях
+
+23. Снег (Snow):
+   - Nominative:
+     - Singular: Снег
+     - Plural: Снега
+   - Genitive:
+     - Singular: Снега
+     - Plural: Снежков
+   - Dative:
+     - Singular: Снегу
+     - Plural: Снегам
+   - Accusative:
+     - Singular: Снег
+     - Plural: Снега
+   - Instrumental:
+     - Singular: Снегом
+     - Plural: Снежками
+   - Prepositional:
+     - Singular: Снеге
+     - Plural: Снегах
+
+24. Путь (Path):
+   - Nominative:
+     - Singular: Путь
+     - Plural: Пути
+   - Genitive:
+     - Singular: Пути
+     - Plural: Путей
+   - Dative:
+     - Singular: Пути
+     - Plural: Путям
+   - Accusative:
+     - Singular: Путь
+     - Plural: Пути
+   - Instrumental:
+     - Singular: Путем
+     - Plural: Путями
+   - Prepositional:
+     - Singular: Пути
+     - Plural: Путях
+
+25. Звезда (Star):
+   - Nominative:
+     - Singular: Звезда
+     - Plural: Звезды
+   - Genitive:
+     - Singular: Звезды
+     - Plural: Звезд
+   - Dative:
+     - Singular: Звезде
+     - Plural: Звездам
+   - Accusative:
+     - Singular: Звезду
+     - Plural: Звезды
+   - Instrumental:
+     - Singular: Звездой
+     - Plural: Звездами
+   - Prepositional:
+     - Singular: Звезде
+     - Plural: Звездах
+
+26. Сердце (Heart):
+   - Nominative:
+     - Singular: Сердце
+     - Plural: Сердца
+   - Genitive:
+     - Singular: Сердца
+     - Plural: Сердец
+   - Dative:
+     - Singular: Сердцу
+     - Plural: Сердцам
+   - Accusative:
+     - Singular: Сердце
+     - Plural: Сердца
+   - Instrumental:
+     - Singular: Сердцем
+     - Plural: Сердцами
+   - Prepositional:
+     - Singular: Сердце
+     - Plural: Сердцах
+
+27. Мечта (Dream):
+   - Nominative:
+     - Singular: Мечта
+     - Plural: Мечты
+   - Genitive:
+     - Singular: Мечты
+     - Plural: Мечт
+   - Dative:
+     - Singular: Мечте
+     - Plural: Мечтам
+   - Accusative:
+     - Singular: Мечту
+     - Plural: Мечты
+   - Instrumental:
+     - Singular: Мечтой
+     - Plural: Мечтами
+   - Prepositional:
+     - Singular: Мечте
+     - Plural: Мечтах
+
+28. Слово (Word):
+   - Nominative:
+     - Singular: Слово
+     - Plural: Слова
+   - Genitive:
+     - Singular: Слова
+     - Plural: Слов
+   - Dative:
+     - Singular: Слову
+     - Plural: Словам
+   - Accusative:
+     - Singular: Слово
+     - Plural: Слова
+   - Instrumental:
+     - Singular: Словом
+     - Plural: Словами
+   - Prepositional:
+     - Singular: Слове
+     - Plural: Словах
+
+29. Время (Time):
+   - Nominative:
+     - Singular: Время
+     - Plural: Времена
+   - Genitive:
+     - Singular: Времени
+     - Plural: Времен
+   - Dative:
+     - Singular: Времени
+     - Plural: Временам
+   - Accusative:
+     - Singular: Время
+     - Plural: Времена
+   - Instrumental:
+     - Singular: Временем
+     - Plural: Временами
+   - Prepositional:
+     - Singular: Времени
+     - Plural: Временах
+
+30. Семья (Family):
+   - Nominative:
+     - Singular: Семья
+     - Plural: Семьи
+   - Genitive:
+     - Singular: Семьи
+     - Plural: Семей
+   - Dative:
+     - Singular: Семье
+     - Plural: Семьям
+   - Accusative:
+     - Singular: Семью
+     - Plural: Семьи
+   - Instrumental:
+     - Singular: Семьей
+     - Plural: Семьями
+   - Prepositional:
+     - Singular: Семье
+     - Plural: Семьях
